@@ -41,11 +41,17 @@ Q3.
 Amazon Web service
 
 -VPC flow log
+
 -guardduty
+
 -cloud watch
+
 -lambda
+
 -slack
+
 -elastic search
+
 Mozilla Observatory
 
 Q.4
