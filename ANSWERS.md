@@ -18,7 +18,7 @@ https://www.necktie.com.hk/blog/en/conversation-with-bowtie-co-founders-and-medi
 
 https://www.necktie.com.hk/blog/en/hong-kong-first-virtual-insurer-license/
 
-
+I search the word "Fred" mannually page by page on the www.necktie.com.hk.
 
 Q1.
 
