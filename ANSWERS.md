@@ -97,6 +97,8 @@ Q.6
 
 https://competent-ptolemy-d51f98.netlify.com/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dd24cdd-2c73-4ae2-b327-8c4fab27a3d4/deploy-status)](https://app.netlify.com/sites/competent-ptolemy-d51f98/deploys)
+
 Above is the website with the requiried features. 
 
 For the first feature, I have used some source code of the admin.bowtie.com.hk.
