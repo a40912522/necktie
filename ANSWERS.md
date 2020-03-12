@@ -79,7 +79,7 @@ Q.6
 
 https://competent-ptolemy-d51f98.netlify.com/
 
-Aboved is the website with the requiried features. 
+Above is the website with the requiried features. 
 
 For the first feature, I have used some source code of the admin.bowtie.com.hk.
 
