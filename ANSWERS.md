@@ -53,13 +53,29 @@ Amazon Web service
 -elastic search
 
 Mozilla Observatory
+
 Google analytics
+
+Google tag manager
+
+yahoo analytics
 
 Q.4
 
 JSON-LD (JavaScript Object Notation for Linked Data)
 
+
+
+
+
 Q.6
+
+https://competent-ptolemy-d51f98.netlify.com/
+Aboved is the website with the requiried features. 
+
+For the first feature, I have used the source code of the admin.bowtie.com.hk.
+
+For the second feature, I have used the Google Tag manager with Google analytics to fire the events.
 
 
 
