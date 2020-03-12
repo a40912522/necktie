@@ -80,6 +80,10 @@ Google tag manager
 
 yahoo analytics
 
+Fasty
+
+Hotjar
+
 Q.4
 
 JSON-LD (JavaScript Object Notation for Linked Data)
@@ -100,7 +104,7 @@ https://competent-ptolemy-d51f98.netlify.com/
 
 Above is the website with the requiried features. 
 
-For the first feature, I have used some source code of the admin.bowtie.com.hk.
+For the first feature, I have used some source code of the admin.necktie.com.hk.
 
 For the second feature, I have used the Google Tag manager with Google analytics to fire the events.
 
